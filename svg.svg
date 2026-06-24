@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 70" width="380" height="70">
+    <defs>
+        <linearGradient id="gold3" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#c9a84c;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#b8942a;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Ligne décorative dorée verticale -->
+    <rect x="0" y="5" width="4" height="60" rx="2" fill="url(#gold3)" />
+    
+    <!-- Texte principal -->
+    <text x="20" y="28" font-family="'Inter', 'Arial Black', sans-serif" font-size="28" font-weight="800" fill="#1e1e1e" letter-spacing="-0.5">
+        EURL <tspan fill="url(#gold3)">M.T.I</tspan>
+    </text>
+    
+    <!-- Sous-titre -->
+    <text x="20" y="50" font-family="'Inter', 'Arial', sans-serif" font-size="12" font-weight="600" fill="#888888" letter-spacing="3">PROMOTION IMMOBILIÈRE</text>
+    
+    <!-- Petit texte en bas -->
+    <text x="20" y="65" font-family="'Inter', 'Arial', sans-serif" font-size="8" font-weight="500" fill="#cccccc" letter-spacing="2">mondial trading international</text>
+</svg>
